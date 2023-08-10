@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=ASUS-HUY;Database=Fap;user=sa;password=123456789;TrustServerCertificate=True;MultipleActiveResultSets=true"
+  }
+}
